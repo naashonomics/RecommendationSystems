@@ -5,6 +5,6 @@
 
 Often used by Online New Sites 
 
-Drawback: Cannot make perzonlized recommendations
+Drawback: Cannot make personalized  recommendations
 
 https://github.com/naashonomics/RecommendationSystems/blob/master/popularity_based_recommenders.ipynb 
